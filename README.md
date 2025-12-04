@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=510D6C&width=435&lines=Front-end+developer)](https://git.io/typing-svg)</br>
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,typescript,javascript,html,css,express,mongodb,git)](https://skillicons.dev)</br>
-<h2>Ola!</h2>
+<h2>Olá!</h2>
 <p>Me chamo Jessica, tenho 22 anos e sou desenvolvedora web em início de carreira.</p>
 <p>Atualmente tenho estudado os fundamentos MERN para me sentir mais completa no desenvolvimento de aplicações web.</p>
 <p>Aqui você encontra os projetos que desenvolvo e, caso queira entrar em contato comigo, o link para o meu LinkedIn está disponível logo abaixo do meu perfil. 😉</p>
