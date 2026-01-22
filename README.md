@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=510D6C&width=435&lines=Full-Sttack+developer)](https://git.io/typing-svg)</br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=510D6C&width=435&lines=Full-Stack+developer)](https://git.io/typing-svg)</br>
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,typescript,javascript,html,css,express,mongodb,git)](https://skillicons.dev)</br>
 <h2>Olá!</h2>
 <p>Me chamo Jessica, tenho 22 anos e sou desenvolvedora web em início de carreira.</p>
@@ -34,6 +34,8 @@
     <ul>
       <li>MongoDB</li>
       <li>Mongoose</li>
+      <li>MySql</li>
+      <li>Drizzle</li>
     </ul>
   </li>
 
