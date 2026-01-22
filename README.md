@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=510D6C&width=435&lines=Full-Stack+developer)](https://git.io/typing-svg)</br>
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,typescript,javascript,html,css,express,mongodb,mysql,git)](https://skillicons.dev)</br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=510D6C&width=435&lines=Back-End+developer)](https://git.io/typing-svg)</br>
+[![My Skills](https://skillicons.dev/icons?i=typescript,express,mongodb,mysql,javascript,html,css,git)](https://skillicons.dev)</br>
 <h2>Olá!</h2>
 <p>Me chamo Jessica, tenho 22 anos e sou desenvolvedora web.</p>
 <p>Atualmente tenho me aprofundado na parte do back-end, onde estudo websockets, autenticacao e integracao com banco de dados com ORMs.</p>
@@ -14,7 +14,13 @@
       <li>Typescript</li>
     </ul>
   </li>
-
+  
+<li><strong>Back-end</strong>
+    <ul>
+      <li>Node.js</li>
+      <li>Express.js</li>
+    </ul>
+  </li>
   <li><strong>Front-end</strong>
     <ul>
       <li>React.js</li>
@@ -23,12 +29,7 @@
     </ul>
   </li>
 
-  <li><strong>Back-end</strong>
-    <ul>
-      <li>Node.js</li>
-      <li>Express.js</li>
-    </ul>
-  </li>
+  
 
   <li><strong>Banco de Dados</strong>
     <ul>
