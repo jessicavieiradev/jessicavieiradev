@@ -2,7 +2,6 @@
 [![My Skills](https://skillicons.dev/icons?i=dotnet,docker,visualstudio,cs,javascript,html,css,git)](https://skillicons.dev)</br>
 <h2>Olá!</h2>
 <p>Me chamo Jessica, tenho 22 anos e sou desenvolvedora web.</p>
-<p>Atualmente tenho me aprofundado na parte do back-end, onde estudo websockets, autenticacao e integracao com banco de dados com ORMs.</p>
 <p>Aqui você encontra os projetos que desenvolvo e, caso queira entrar em contato comigo, o link para o meu LinkedIn está disponível logo abaixo do meu perfil. 😉</p>
 <h3>Sobre minhas hardskills:</h3>
 <ul>
