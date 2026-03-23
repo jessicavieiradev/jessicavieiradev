@@ -47,6 +47,14 @@
       <li>Swagger</li>
     </ul>
   </li>
+
+  <li><strong>Testes</strong>
+  <ul>
+    <li>xUnit</li>
+    <li>FluentAssertions</li>
+    <li>Moq</li>
+  </ul>
+</li>
 </ul>
 
 
