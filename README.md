@@ -1,62 +1,128 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=510D6C&width=435&lines=Back-End+developer)](https://git.io/typing-svg)</br>
-[![My Skills](https://skillicons.dev/icons?i=dotnet,docker,visualstudio,cs,javascript,html,css,git)](https://skillicons.dev)</br>
-<h2>Olá!</h2>
-<p>Me chamo Jessica, tenho 22 anos e sou desenvolvedora web.</p>
-<p>Aqui você encontra os projetos que desenvolvo e, caso queira entrar em contato comigo, o link para o meu LinkedIn está disponível logo abaixo do meu perfil. 😉</p>
-<h3>Sobre minhas hardskills:</h3>
-<ul>
-  <li><strong>Linguagens</strong>
-    <ul>
-      <li>C#</li>
-      <li>JavaScript</li>
-      <li>HTML5</li>
-      <li>CSS3</li>
-      <li>Typescript</li>
-    </ul>
-  </li>
-  
-<li><strong>Back-end</strong>
-    <ul>
-      <li>ASP.NET</li>
-    </ul>
-  </li>
-  <li><strong>Front-end</strong>
-    <ul>
-      <li>React.js</li>
-      <li>TailwindCSS</li>
-      <li>Vite</li>
-    </ul>
-  </li>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A86FF&height=120&section=header"/>
 
-  
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=42&pause=1000&color=6A4CFF&center=true&vCenter=true&width=1200&height=120&lines=Hi!+I'm+Jessica+Vieira.;I'm+a+Backend+Developer." alt="typing-banner" />
+</h3>
 
-  <li><strong>Banco de Dados</strong>
-    <ul>
-      <li>SqlServer</li>
-      <li>MySql</li>
-    </ul>
-  </li>
+<h3 align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,docker,visualstudio,cs,javascript,html,css,git" />
+  </a>
+</h3>
 
-  <li><strong>Ferramentas</strong>
-    <ul>
-      <li>Git & GitHub</li>
-      <li>npm / npx</li>
-      <li>VS Code</li>
-      <li>Postman</li>
-      <li>Docker</li>
-      <li>Swagger</li>
-    </ul>
-  </li>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=3A86FF&height=2"/>
 
-  <li><strong>Testes</strong>
-  <ul>
-    <li>xUnit</li>
-    <li>FluentAssertions</li>
-    <li>Moq</li>
-  </ul>
-</li>
-</ul>
+<h3 align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=soft&color=00000000&height=80&width=600&text=ABOUT+ME&fontSize=30&fontColor=6A4CFF"
+    alt="ABOUT ME"
+  />
+</h3>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jessicavieiradev&layout=compact&langs_count=4&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true" width="340" align="right" />
+
+I am a backend developer focused on building secure, scalable, and maintainable systems using C# and ASP.NET Core.
+
+My approach is centered on applying clean code practices, Object-Oriented Programming (OOP), SOLID principles, and well-structured architectures to deliver robust APIs. I have experience developing RESTful APIs with authentication and authorization using JWT and ASP.NET Identity, as well as working with Entity Framework Core for data access and SQL Server for persistence.
+
+I focus on designing applications with clear separation of concerns, ensuring maintainability and scalability as projects grow. I also apply testing practices using xUnit, Moq, and FluentAssertions to guarantee reliability and code quality.
+
+In addition to backend development, I have experience with frontend technologies such as React, TypeScript, and Tailwind CSS, which allows me to understand and collaborate effectively in full-stack environments.
+
+Fluent in Portuguese and with good proficiency in English, I am continuously improving my skills to build efficient, reliable, and production-ready backend systems aligned with modern development standards.
+
+<br clear="right">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=3A86FF&height=2"/>
+
+<h3 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00000000&height=80&width=600&text=RELEVANT+PROJECTS&fontSize=30&fontColor=6A4CFF" alt="RELEVANT PROJECTS" />
+</h3>
+
+| Project | Description |
+| :--- | :--- |
+| <a href="https://github.com/jessicavieiradev/miniEcommerceApi">![**MiniEcommerce API**](https://img.shields.io/badge/MiniEcommerce-6A4CFF?style=for-the-badge&labelColor=EDE7FF&logo=github&logoWidth=5)</a><br><br>![**C#**](https://img.shields.io/badge/C%23-EDE7FF?style=for-the-badge&logo=c-sharp&logoColor=6A4CFF&logoWidth=5) ![**ASP.NET Core**](https://img.shields.io/badge/ASP.NET-E3F2FD?style=for-the-badge&logo=dotnet&logoColor=3A86FF&logoWidth=5) ![**JWT**](https://img.shields.io/badge/JWT-EDE7FF?style=for-the-badge&logo=jsonwebtokens&logoColor=6A4CFF&logoWidth=5) ![**EF Core**](https://img.shields.io/badge/EF%20Core-E3F2FD?style=for-the-badge&logo=dotnet&logoColor=3A86FF&logoWidth=5) ![**SQL Server**](https://img.shields.io/badge/SQL%20Server-EDE7FF?style=for-the-badge&logo=microsoftsqlserver&logoColor=6A4CFF&logoWidth=5) | **E-commerce backend API** built with **ASP.NET Core**, focused on **secure authentication**, **clean separation of concerns**, and **scalable API design**.<br><br>🔗 **[Check out the repository](https://github.com/jessicavieiradev/miniEcommerceApi)** |
+
+<details>
+<summary><b>🟣 Read more (Backend Design)</b></summary>
+<br>
+
+| Concept | Implementation Detail |
+| :--- | :--- |
+| **Architecture** | Layered architecture with Services, Repositories and DTOs |
+| **Authentication** | JWT + ASP.NET Identity for user management |
+| **Data Access** | Entity Framework Core with SQL Server |
+| **API Documentation** | Swagger for testing and endpoint exploration |
+| **Testing** | Unit tests using xUnit, Moq and FluentAssertions |
+
+</details>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=3A86FF&height=2"/>
+
+<h3 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00000000&height=80&width=600&text=TECH+STACKS&fontSize=30&fontColor=6A4CFF" alt="TECH STACKS" />
+</h3>
+
+### 🧠 Linguages
+<p>
+  <img src="https://img.shields.io/badge/C%23-EDE7FF?style=for-the-badge&logo=c-sharp&logoColor=6A4CFF" />
+  <img src="https://img.shields.io/badge/JavaScript-E3F2FD?style=for-the-badge&logo=javascript&logoColor=3A86FF" />
+  <img src="https://img.shields.io/badge/TypeScript-EDE7FF?style=for-the-badge&logo=typescript&logoColor=6A4CFF" />
+  <img src="https://img.shields.io/badge/HTML5-E3F2FD?style=for-the-badge&logo=html5&logoColor=3A86FF" />
+  <img src="https://img.shields.io/badge/CSS3-EDE7FF?style=for-the-badge&logo=css3&logoColor=6A4CFF" />
+</p>
 
 
+### ⚙️ Back-end & APIs
+<p>
+  <img src="https://img.shields.io/badge/ASP.NET-EDE7FF?style=for-the-badge&logo=dotnet&logoColor=6A4CFF" />
+  <img src="https://img.shields.io/badge/SQL Server-E3F2FD?style=for-the-badge&logo=microsoftsqlserver&logoColor=3A86FF" />
+  <img src="https://img.shields.io/badge/MySQL-EDE7FF?style=for-the-badge&logo=mysql&logoColor=6A4CFF" />
+  <img src="https://img.shields.io/badge/Swagger-E3F2FD?style=for-the-badge&logo=swagger&logoColor=3A86FF" />
+</p>
+
+
+### 🎨 Front-end
+<p>
+  <img src="https://img.shields.io/badge/React-E3F2FD?style=for-the-badge&logo=react&logoColor=3A86FF" />
+  <img src="https://img.shields.io/badge/TailwindCSS-EDE7FF?style=for-the-badge&logo=tailwindcss&logoColor=6A4CFF" />
+  <img src="https://img.shields.io/badge/Vite-E3F2FD?style=for-the-badge&logo=vite&logoColor=3A86FF" />
+</p>
+
+
+### 🛠️ Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-EDE7FF?style=for-the-badge&logo=git&logoColor=6A4CFF" />
+  <img src="https://img.shields.io/badge/GitHub-E3F2FD?style=for-the-badge&logo=github&logoColor=3A86FF" />
+  <img src="https://img.shields.io/badge/npm-EDE7FF?style=for-the-badge&logo=npm&logoColor=6A4CFF" />
+  <img src="https://img.shields.io/badge/VS Code-E3F2FD?style=for-the-badge&logo=visualstudiocode&logoColor=3A86FF" />
+  <img src="https://img.shields.io/badge/Postman-EDE7FF?style=for-the-badge&logo=postman&logoColor=6A4CFF" />
+  <img src="https://img.shields.io/badge/Docker-E3F2FD?style=for-the-badge&logo=docker&logoColor=3A86FF" />
+</p>
+
+
+### 🧪 Tests
+<p>
+  <img src="https://img.shields.io/badge/xUnit-EDE7FF?style=for-the-badge&logo=.net&logoColor=6A4CFF" />
+  <img src="https://img.shields.io/badge/FluentAssertions-E3F2FD?style=for-the-badge&logo=.net&logoColor=3A86FF" />
+  <img src="https://img.shields.io/badge/Moq-EDE7FF?style=for-the-badge&logo=.net&logoColor=6A4CFF" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=3A86FF&height=2"/>
+
+<h3 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00000000&height=80&width=600&text=CONTACT+ME&fontSize=30&fontColor=6A4CFF" alt="CONTACT ME" />
+</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jessica-vieira-ba6306215/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jessica%20Vieira-6A4CFF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jessicavieira661@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jessicavieira661@gmail.com-3A86FF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A86FF&height=120&section=footer"/>
 
 
