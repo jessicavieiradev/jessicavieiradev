@@ -21,15 +21,15 @@
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jessicavieiradev&layout=compact&langs_count=4&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true" width="340" align="right" />
 
-I am a backend developer focused on building secure, scalable, and maintainable systems using C# and ASP.NET Core.
+Backend developer focused on building APIs with C# and ASP.NET Core, applying clean code, OOP, and SOLID principles.
 
-My approach is centered on applying clean code practices, Object-Oriented Programming (OOP), SOLID principles, and well-structured architectures to deliver robust APIs. I have experience developing RESTful APIs with authentication and authorization using JWT and ASP.NET Identity, as well as working with Entity Framework Core for data access and SQL Server for persistence.
+I have experience developing RESTful APIs with JWT authentication, ASP.NET Core Identity, Entity Framework Core, and SQL Server. I care about writing organized, maintainable code with clear separation of concerns.
 
-I focus on designing applications with clear separation of concerns, ensuring maintainability and scalability as projects grow. I also apply testing practices using xUnit, Moq, and FluentAssertions to guarantee reliability and code quality.
+I also have a frontend background with React, TypeScript, and Tailwind CSS, which helps me collaborate in full-stack environments.
 
-In addition to backend development, I have experience with frontend technologies such as React, TypeScript, and Tailwind CSS, which allows me to understand and collaborate effectively in full-stack environments.
+Currently learning and applying unit testing with xUnit, Moq, and FluentAssertions, and exploring containerization with Docker.
 
-Fluent in Portuguese and with good proficiency in English, I am continuously improving my skills to build efficient, reliable, and production-ready backend systems aligned with modern development standards.
+Fluent in Portuguese, good proficiency in English.
 
 <br clear="right">
 
