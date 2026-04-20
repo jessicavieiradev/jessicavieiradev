@@ -57,6 +57,24 @@ Fluent in Portuguese, good proficiency in English.
 
 </details>
 
+| Project | Description |
+| :--- | :--- |
+| <a href="https://github.com/jessicavieiradev/DotNet-with-AI">![**DotNetIA**](https://img.shields.io/badge/DotNetIA-6A4CFF?style=for-the-badge&labelColor=EDE7FF&logo=github&logoWidth=5)</a><br><br>![**C#**](https://img.shields.io/badge/C%23-EDE7FF?style=for-the-badge&logo=c-sharp&logoColor=6A4CFF&logoWidth=5) ![**ASP.NET 10**](https://img.shields.io/badge/ASP.NET%2010-E3F2FD?style=for-the-badge&logo=dotnet&logoColor=3A86FF&logoWidth=5) ![**React**](https://img.shields.io/badge/React-EDE7FF?style=for-the-badge&logo=react&logoColor=6A4CFF&logoWidth=5) ![**Docker**](https://img.shields.io/badge/Docker-E3F2FD?style=for-the-badge&logo=docker&logoColor=3A86FF&logoWidth=5) ![**OpenAI**](https://img.shields.io/badge/OpenAI-EDE7FF?style=for-the-badge&logo=openai&logoColor=6A4CFF&logoWidth=5) | **AI Integration Hub** that explores Generative AI (Chat, Recipes, and Images). Built with **ASP.NET 10** and **React**, featuring **containerized infrastructure** and modern **AI abstractions**.<br><br>🔗 **[Check out the repository](https://github.com/jessicavieiradev/DotNet-with-AI)** |
+
+<details>
+<summary><b>🟣 Read more (Fullstack AI Design)</b></summary>
+<br>
+
+| Concept | Implementation Detail |
+| :--- | :--- |
+| **Backend** | ASP.NET Core 10 with Microsoft.Extensions.AI abstractions |
+| **Frontend** | React + Vite with Tailwind CSS for a modern UI/UX |
+| **Generative AI** | Multi-modal integration: Text-to-Text and Text-to-Image |
+| **Infrastructure** | Fully dockerized environment with Docker Compose |
+| **Documentation** | Scalar API Reference for modern endpoint exploration |
+
+</details>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=3A86FF&height=2"/>
 
 <h3 align="center">
