@@ -21,13 +21,9 @@
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jessicavieiradev&layout=compact&langs_count=4&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true" width="340" align="right" />
 
-Backend developer focused on building APIs with C# and ASP.NET Core, applying clean code, OOP, and SOLID principles.
+Backend Developer focused on building efficient solutions using C# (ASP.NET Core) and Java (Spring Boot). I have hands-on experience developing RESTful APIs integrated with SQL Server, PostgreSQL and MySQL, handling authentication (JWT/Identity), and ensuring logical project structure for long-term maintainability.
 
-I have experience developing RESTful APIs with JWT authentication, ASP.NET Core Identity, Entity Framework Core, and SQL Server. I care about writing organized, maintainable code with clear separation of concerns.
-
-I also have a frontend background with React, TypeScript, and Tailwind CSS, which helps me collaborate in full-stack environments.
-
-Currently learning and applying unit testing with xUnit, Moq, and FluentAssertions, and exploring containerization with Docker.
+I use Docker to standardize development environments and am currently expanding my expertise into the cloud with AWS. With a background in React and TypeScript, I collaborate effectively in full-stack environments. My goal is to leverage the right technology to solve real-world software challenges.
 
 Fluent in Portuguese, good proficiency in English.
 
