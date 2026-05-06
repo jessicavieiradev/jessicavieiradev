@@ -79,17 +79,19 @@ Fluent in Portuguese, good proficiency in English.
 
 ### 🧠 Linguages
 <p>
-  <img src="https://img.shields.io/badge/C%23-EDE7FF?style=for-the-badge&logo=c-sharp&logoColor=6A4CFF" />
-  <img src="https://img.shields.io/badge/JavaScript-E3F2FD?style=for-the-badge&logo=javascript&logoColor=3A86FF" />
-  <img src="https://img.shields.io/badge/TypeScript-EDE7FF?style=for-the-badge&logo=typescript&logoColor=6A4CFF" />
-  <img src="https://img.shields.io/badge/HTML5-E3F2FD?style=for-the-badge&logo=html5&logoColor=3A86FF" />
-  <img src="https://img.shields.io/badge/CSS3-EDE7FF?style=for-the-badge&logo=css3&logoColor=6A4CFF" />
+  <img src="https://img.shields.io/badge/C%23-E3F2FD?style=for-the-badge&logo=c-sharp&logoColor=6A4CFF" />
+  <img src="https://img.shields.io/badge/Java-EDE7FF?style=for-the-badge&logo=java&logoColor=3A86FF" />
+  <img src="https://img.shields.io/badge/JavaScript-E3F2FD?style=for-the-badge&logo=javascript&logoColor=6A4CFF" />
+  <img src="https://img.shields.io/badge/TypeScript-EDE7FF?style=for-the-badge&logo=typescript&logoColor=3A86FF" />
+  <img src="https://img.shields.io/badge/HTML5-E3F2FD?style=for-the-badge&logo=html5&logoColor=6A4CFF" />
+  <img src="https://img.shields.io/badge/CSS3-EDE7FF?style=for-the-badge&logo=css3&logoColor=3A86FF" />
 </p>
 
 
 ### ⚙️ Back-end & APIs
 <p>
-  <img src="https://img.shields.io/badge/ASP.NET-EDE7FF?style=for-the-badge&logo=dotnet&logoColor=6A4CFF" />
+  <img src="https://img.shields.io/badge/ASP.NET-E3F2FD?style=for-the-badge&logo=dotnet&logoColor=3A86FF" />
+  <img src="https://img.shields.io/badge/SPRING-EDE7FF?style=for-the-badge&logo=spring&logoColor=6A4CFF" />
   <img src="https://img.shields.io/badge/SQL Server-E3F2FD?style=for-the-badge&logo=microsoftsqlserver&logoColor=3A86FF" />
   <img src="https://img.shields.io/badge/MySQL-EDE7FF?style=for-the-badge&logo=mysql&logoColor=6A4CFF" />
   <img src="https://img.shields.io/badge/Swagger-E3F2FD?style=for-the-badge&logo=swagger&logoColor=3A86FF" />
