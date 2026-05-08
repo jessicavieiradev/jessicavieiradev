@@ -69,6 +69,20 @@ Fluent in Portuguese, good proficiency in English.
 
 </details>
 
+| Project | Description |
+| :--- | :--- |
+| <a href="https://github.com/jessicavieiradev/qrcode-generator">![**QRCode Generator**](https://img.shields.io/badge/QRCode_Generator-6A4CFF?style=for-the-badge&labelColor=EDE7FF&logo=github&logoWidth=5)</a><br><br>![**Java**](https://img.shields.io/badge/Java-EDE7FF?style=for-the-badge&logo=openjdk&logoColor=6A4CFF&logoWidth=5) ![**Spring Boot**](https://img.shields.io/badge/Spring%20Boot-E3F2FD?style=for-the-badge&logo=springboot&logoColor=3A86FF&logoWidth=5) ![**AWS S3**](https://img.shields.io/badge/AWS%20S3-EDE7FF?style=for-the-badge&logo=amazons3&logoColor=6A4CFF&logoWidth=5) ![**Docker**](https://img.shields.io/badge/Docker-E3F2FD?style=for-the-badge&logo=docker&logoColor=3A86FF&logoWidth=5) | **QR Code Generator API** built with **Spring Boot**, storing generated codes on **Amazon S3** with public access. Fully **containerized with Docker** for easy deployment.<br><br>🔗 **[Check out the repository]([https://github.com/jessicavieiradev/qrcode-generator](https://github.com/jessicavieiradev/qrcode-generator))** |
+<details>
+<summary><b>🟣 Read more (Backend Design)</b></summary>
+<br>
+| Concept | Implementation Detail |
+| :--- | :--- |
+| **Architecture** | Hexagonal architecture with Ports and Adapters |
+| **Storage** | Amazon S3 with public read bucket policy |
+| **Infrastructure** | Dockerized with multi-stage build using Maven + JRE 21 |
+| **Configuration** | Environment-based config via `.env` for credentials and bucket |
+</details>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=3A86FF&height=2"/>
 
 <h3 align="center">
