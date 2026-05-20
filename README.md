@@ -91,51 +91,43 @@ Fluent in Portuguese, good proficiency in English.
   <img src="https://capsule-render.vercel.app/api?type=soft&color=00000000&height=80&width=600&text=TECH+STACKS&fontSize=30&fontColor=6A4CFF" alt="TECH STACKS" />
 </h3>
 
-### 🧠 Linguages
+### 🧠 Languages
 <p>
-  <img src="https://img.shields.io/badge/C%23-E3F2FD?style=for-the-badge&logo=c-sharp&logoColor=6A4CFF" />
-  <img src="https://img.shields.io/badge/Java-EDE7FF?style=for-the-badge&logo=java&logoColor=3A86FF" />
-  <img src="https://img.shields.io/badge/JavaScript-E3F2FD?style=for-the-badge&logo=javascript&logoColor=6A4CFF" />
-  <img src="https://img.shields.io/badge/TypeScript-EDE7FF?style=for-the-badge&logo=typescript&logoColor=3A86FF" />
-  <img src="https://img.shields.io/badge/HTML5-E3F2FD?style=for-the-badge&logo=html5&logoColor=6A4CFF" />
-  <img src="https://img.shields.io/badge/CSS3-EDE7FF?style=for-the-badge&logo=css3&logoColor=3A86FF" />
+  <img src="https://img.shields.io/badge/JAVA-E3F2FD?style=for-the-badge&logo=openjdk&logoColor=3A86FF" />
+  <img src="https://img.shields.io/badge/C%23-EDE7FF?style=for-the-badge&logo=c-sharp&logoColor=6A4CFF" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-E3F2FD?style=for-the-badge&logo=javascript&logoColor=3A86FF" />
+  <img src="https://img.shields.io/badge/HTML5-EDE7FF?style=for-the-badge&logo=html5&logoColor=6A4CFF" />
+  <img src="https://img.shields.io/badge/CSS3-E3F2FD?style=for-the-badge&logo=css3&logoColor=3A86FF" />
 </p>
 
-
-### ⚙️ Back-end & APIs
+### ⚙️ Back-end & Databases
 <p>
-  <img src="https://img.shields.io/badge/ASP.NET-E3F2FD?style=for-the-badge&logo=dotnet&logoColor=3A86FF" />
-  <img src="https://img.shields.io/badge/SPRING-EDE7FF?style=for-the-badge&logo=spring&logoColor=6A4CFF" />
-  <img src="https://img.shields.io/badge/SQL Server-E3F2FD?style=for-the-badge&logo=microsoftsqlserver&logoColor=3A86FF" />
-  <img src="https://img.shields.io/badge/MySQL-EDE7FF?style=for-the-badge&logo=mysql&logoColor=6A4CFF" />
-  <img src="https://img.shields.io/badge/Swagger-E3F2FD?style=for-the-badge&logo=swagger&logoColor=3A86FF" />
+  <img src="https://img.shields.io/badge/SPRING_BOOT-E3F2FD?style=for-the-badge&logo=spring-boot&logoColor=3A86FF" />
+  <img src="https://img.shields.io/badge/ASP.NET_CORE-EDE7FF?style=for-the-badge&logo=dotnet&logoColor=6A4CFF" />
+  <img src="https://img.shields.io/badge/SQL_SERVER-E3F2FD?style=for-the-badge&logo=microsoft-sql-server&logoColor=3A86FF" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-EDE7FF?style=for-the-badge&logo=postgresql&logoColor=6A4CFF" />
 </p>
-
 
 ### 🎨 Front-end
 <p>
-  <img src="https://img.shields.io/badge/React-E3F2FD?style=for-the-badge&logo=react&logoColor=3A86FF" />
-  <img src="https://img.shields.io/badge/TailwindCSS-EDE7FF?style=for-the-badge&logo=tailwindcss&logoColor=6A4CFF" />
-  <img src="https://img.shields.io/badge/Vite-E3F2FD?style=for-the-badge&logo=vite&logoColor=3A86FF" />
+  <img src="https://img.shields.io/badge/REACT-E3F2FD?style=for-the-badge&logo=react&logoColor=3A86FF" />
+  <img src="https://img.shields.io/badge/TAILWIND_CSS-EDE7FF?style=for-the-badge&logo=tailwindcss&logoColor=6A4CFF" />
 </p>
-
 
 ### 🛠️ Tools
 <p>
-  <img src="https://img.shields.io/badge/Git-EDE7FF?style=for-the-badge&logo=git&logoColor=6A4CFF" />
-  <img src="https://img.shields.io/badge/GitHub-E3F2FD?style=for-the-badge&logo=github&logoColor=3A86FF" />
-  <img src="https://img.shields.io/badge/npm-EDE7FF?style=for-the-badge&logo=npm&logoColor=6A4CFF" />
-  <img src="https://img.shields.io/badge/VS Code-E3F2FD?style=for-the-badge&logo=visualstudiocode&logoColor=3A86FF" />
-  <img src="https://img.shields.io/badge/Postman-EDE7FF?style=for-the-badge&logo=postman&logoColor=6A4CFF" />
-  <img src="https://img.shields.io/badge/Docker-E3F2FD?style=for-the-badge&logo=docker&logoColor=3A86FF" />
+  <img src="https://img.shields.io/badge/DOCKER-E3F2FD?style=for-the-badge&logo=docker&logoColor=3A86FF" />
+  <img src="https://img.shields.io/badge/DOCKER_COMPOSE-EDE7FF?style=for-the-badge&logo=docker&logoColor=6A4CFF" />
+  <img src="https://img.shields.io/badge/GIT-E3F2FD?style=for-the-badge&logo=git&logoColor=3A86FF" />
+  <img src="https://img.shields.io/badge/GITHUB-EDE7FF?style=for-the-badge&logo=github&logoColor=6A4CFF" />
 </p>
-
 
 ### 🧪 Tests
 <p>
-  <img src="https://img.shields.io/badge/xUnit-EDE7FF?style=for-the-badge&logo=.net&logoColor=6A4CFF" />
-  <img src="https://img.shields.io/badge/FluentAssertions-E3F2FD?style=for-the-badge&logo=.net&logoColor=3A86FF" />
-  <img src="https://img.shields.io/badge/Moq-EDE7FF?style=for-the-badge&logo=.net&logoColor=6A4CFF" />
+  <img src="https://img.shields.io/badge/JUNIT-E3F2FD?style=for-the-badge&logo=junit5&logoColor=3A86FF" />
+  <img src="https://img.shields.io/badge/MOCKITO-EDE7FF?style=for-the-badge&logo=scuba-diving&logoColor=6A4CFF" />
+  <img src="https://img.shields.io/badge/XUNIT-E3F2FD?style=for-the-badge&logo=dotnet&logoColor=3A86FF" />
+  <img src="https://img.shields.io/badge/MOQ-EDE7FF?style=for-the-badge&logo=dotnet&logoColor=6A4CFF" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=3A86FF&height=2"/>
