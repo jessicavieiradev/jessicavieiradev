@@ -35,6 +35,23 @@ Fluent in Portuguese, good proficiency in English.
 
 | Project | Description |
 | :--- | :--- |
+| <a href="https://github.com/jessicavieiradev/gasStationJava">![**Gas Station System**](https://img.shields.io/badge/Gas_Station_System-6A4CFF?style=for-the-badge&labelColor=EDE7FF&logo=github&logoWidth=5)</a><br><br>![**Java**](https://img.shields.io/badge/Java-EDE7FF?style=for-the-badge&logo=openjdk&logoColor=6A4CFF&logoWidth=5) ![**Spring Boot**](https://img.shields.io/badge/Spring%20Boot-E3F2FD?style=for-the-badge&logo=springboot&logoColor=3A86FF&logoWidth=5) ![**PostgreSQL**](https://img.shields.io/badge/PostgreSQL-EDE7FF?style=for-the-badge&logo=postgresql&logoColor=6A4CFF&logoWidth=5) ![**Docker**](https://img.shields.io/badge/Docker-E3F2FD?style=for-the-badge&logo=docker&logoColor=3A86FF&logoWidth=5) ![**JUnit**](https://img.shields.io/badge/JUnit5-EDE7FF?style=for-the-badge&logo=junit5&logoColor=6A4CFF&logoWidth=5) | **Gas Station Management API** built with **Spring Boot** to control fuel sales, inventory, and financial transactions. Fully **containerized with Docker** and covered by automated tests.<br><br>🔗 **[Check out the repository](https://github.com/jessicavieiradev/gasStationJava)** |
+
+<details>
+<summary><b>🟣 Read more (Backend Design)</b></summary>
+<br>
+
+| Concept | Implementation Detail |
+| :--- | :--- |
+| **Architecture** | Layered Architecture (Controller, Service, Repository) with clean separation of concerns |
+| **Database** | PostgreSQL for relational data storage and transactional safety |
+| **Testing** | Unit and integration tests using JUnit and Mockito to ensure business rules stability |
+| **Infrastructure** | Containerized environment using Docker and Docker Compose for the app and database |
+
+</details>
+
+| Project | Description |
+| :--- | :--- |
 | <a href="https://github.com/jessicavieiradev/miniEcommerceApi">![**MiniEcommerce API**](https://img.shields.io/badge/MiniEcommerce-6A4CFF?style=for-the-badge&labelColor=EDE7FF&logo=github&logoWidth=5)</a><br><br>![**C#**](https://img.shields.io/badge/C%23-EDE7FF?style=for-the-badge&logo=c-sharp&logoColor=6A4CFF&logoWidth=5) ![**ASP.NET Core**](https://img.shields.io/badge/ASP.NET-E3F2FD?style=for-the-badge&logo=dotnet&logoColor=3A86FF&logoWidth=5) ![**JWT**](https://img.shields.io/badge/JWT-EDE7FF?style=for-the-badge&logo=jsonwebtokens&logoColor=6A4CFF&logoWidth=5) ![**EF Core**](https://img.shields.io/badge/EF%20Core-E3F2FD?style=for-the-badge&logo=dotnet&logoColor=3A86FF&logoWidth=5) ![**SQL Server**](https://img.shields.io/badge/SQL%20Server-EDE7FF?style=for-the-badge&logo=microsoftsqlserver&logoColor=6A4CFF&logoWidth=5) | **E-commerce backend API** built with **ASP.NET Core**, focused on **secure authentication**, **clean separation of concerns**, and **scalable API design**.<br><br>🔗 **[Check out the repository](https://github.com/jessicavieiradev/miniEcommerceApi)** |
 
 <details>
