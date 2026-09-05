@@ -6,7 +6,7 @@
 
 <h3 align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,spring,docker,aws,visualstudio,cs,java,javascript,html,css,git" />
+    <img src="https://skillicons.dev/icons?i=dotnet,spring,docker,visualstudio,cs,java,javascript,html,css,git" />
   </a>
 </h3>
 
