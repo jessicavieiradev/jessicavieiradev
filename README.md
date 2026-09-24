@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A86FF&height=120&section=header"/>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=50&pause=1000&color=6A4CFF&center=true&vCenter=true&width=1200&height=120&lines=Hi!+I'm+Jessica+Vieira.;I'm+a+Backend+Developer." alt="typing-banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=50&pause=1000&color=6A4CFF&center=true&vCenter=true&width=1200&height=120&lines=Hi!+I'm+Jessica+Vieira.;I'm+an+Aspiring+QA+Engineer" alt="typing-banner" />
 </h3>
 
 <h3 align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,spring,docker,visualstudio,cs,java,javascript,html,css,git" />
+    <img src="https://skillicons.dev/icons?i=postman,dotnet,spring,docker,javascript,git" />
   </a>
 </h3>
 
@@ -19,11 +19,17 @@
   />
 </h3>
 
-Backend Developer focused on building efficient solutions using C# (ASP.NET Core) and Java (Spring Boot). I have hands-on experience developing RESTful APIs integrated with SQL Server, PostgreSQL and MySQL, handling authentication (JWT/Identity), and ensuring logical project structure for long-term maintainability.
+### QA Engineer in Training | Software Testing | Test Automation
 
-I use Docker to standardize development environments and am currently expanding my expertise into the cloud with AWS. With a background in React and TypeScript, I collaborate effectively in full-stack environments. My goal is to leverage the right technology to solve real-world software challenges.
+I'm an Analysis and Systems Development student building my career in Quality Assurance and software testing.
 
-Fluent in Portuguese, good proficiency in English.
+I have studied QA fundamentals, including test types, test case design techniques, SDLC, STLC, bug lifecycle, severity and priority, and test planning. Through personal projects, I practice manual testing, test documentation, and bug reporting while developing my skills in test automation.
+
+With a background in software development, I have hands-on experience with Java (Spring Boot), C# (ASP.NET Core), RESTful APIs, databases, Docker, and automated unit tests. This foundation helps me understand application behavior and investigate issues from both testing and development perspectives.
+
+I'm currently building my QA portfolio and expanding my automation testing skills, with the goal of contributing to software quality and growing as a QA professional.
+
+**Interested in:** Quality Assurance · Manual Testing · Test Automation · API Testing · Software Quality
 
 <br clear="right">
 
@@ -32,6 +38,23 @@ Fluent in Portuguese, good proficiency in English.
 <h3 align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=00000000&height=80&width=600&text=RELEVANT+PROJECTS&fontSize=30&fontColor=6A4CFF" alt="RELEVANT PROJECTS" />
 </h3>
+
+| Project | Description |
+| :--- | :--- |
+| <a href="https://github.com/jessicavieiradev/sauceDemoQA">![**SauceDemo QA**](https://img.shields.io/badge/SauceDemo_QA-6A4CFF?style=for-the-badge&labelColor=EDE7FF&logo=github&logoWidth=5)</a><br><br>![**Manual Testing**](https://img.shields.io/badge/Manual_Testing-EDE7FF?style=for-the-badge&logo=github&logoColor=6A4CFF&logoWidth=5) ![**Test Cases**](https://img.shields.io/badge/Test_Cases-E3F2FD?style=for-the-badge&logo=github&logoColor=3A86FF&logoWidth=5) ![**Bug Reporting**](https://img.shields.io/badge/Bug_Reporting-EDE7FF?style=for-the-badge&logo=github&logoColor=6A4CFF&logoWidth=5) | **SauceDemo Software Testing Project** focused on validating the login functionality through manual testing. Includes a **test plan**, **test cases**, and **bug report**, covering positive and negative login scenarios and documenting a UI issue found during testing.<br><br>🔗 **[Check out the repository](https://github.com/jessicavieiradev/sauceDemoQA)** |
+
+<details>
+<summary><b>🟣 Read more (Testing Details)</b></summary>
+<br>
+
+| Concept | Implementation Detail |
+| :--- | :--- |
+| **Testing Approach** | Manual testing of the login functionality, including positive and negative scenarios |
+| **Test Documentation** | Test plan, test cases, and bug report |
+| **Test Coverage** | Valid credentials, locked-out users, invalid credentials, empty fields, password masking, and error message dismissal |
+| **Bug Reporting** | Documented UI issue involving clipped error message text and misaligned container padding |
+
+</details>
 
 | Project | Description |
 | :--- | :--- |
