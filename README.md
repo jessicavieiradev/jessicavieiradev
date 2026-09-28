@@ -19,17 +19,18 @@
   />
 </h3>
 
-### QA Engineer in Training | Software Testing | Test Automation
+### Systems Analysis & Development Student | Java · C# · JavaScript · APIs · Software Testing | Open to Tech Internships
+I'm a Systems Analysis and Development student building a career in technology, with a hands-on approach to software development, quality, and IT operations.
 
-I'm an Analysis and Systems Development student building my career in Quality Assurance and software testing.
+My foundation is in back-end development: I've built RESTful APIs with Java (Spring Boot) and C# (ASP.NET Core), using layered architecture, JWT authentication, PostgreSQL and SQL Server, Docker, and automated unit tests with JUnit, Mockito, xUnit, and Moq. I also work with JavaScript and Python.
 
-I have studied QA fundamentals, including test types, test case design techniques, SDLC, STLC, bug lifecycle, severity and priority, and test planning. Through personal projects, I practice manual testing, test documentation, and bug reporting while developing my skills in test automation.
+I bring a quality mindset to everything I build. I've studied QA fundamentals, including test design techniques, SDLC/STLC, bug lifecycle, and severity and priority, and I practice manual testing, test documentation, and bug reporting through personal projects while growing my skills in test automation.
 
-With a background in software development, I have hands-on experience with Java (Spring Boot), C# (ASP.NET Core), RESTful APIs, databases, Docker, and automated unit tests. This foundation helps me understand application behavior and investigate issues from both testing and development perspectives.
+Before starting my degree, I worked as an IT Apprentice, providing hardware and software support, setting up equipment, and managing IT asset inventory, which gave me a practical view of how technology supports people and business processes.
 
-I'm currently building my QA portfolio and expanding my automation testing skills, with the goal of contributing to software quality and growing as a QA professional.
+I'm looking for an internship where I can learn from experienced teams, contribute where I'm most needed, and grow across software development, QA, and IT.
 
-**Interested in:** Quality Assurance · Manual Testing · Test Automation · API Testing · Software Quality
+Interested in: Software Development · Back-End · Quality Assurance · Test Automation · API Testing · IT Support
 
 <br clear="right">
 
