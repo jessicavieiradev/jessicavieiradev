@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A86FF&height=120&section=header"/>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=50&pause=1000&color=6A4CFF&center=true&vCenter=true&width=1200&height=120&lines=Hi!+I'm+Jessica+Vieira.;I'm+an+Aspiring+QA+Engineer" alt="typing-banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=50&pause=1000&color=6A4CFF&center=true&vCenter=true&width=1200&height=120&lines=Hi!+I'm+Jessica+Vieira.;I'm+a+Backend+Developer" alt="typing-banner" />
 </h3>
 
 <h3 align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,dotnet,spring,docker,javascript,git" />
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,postgresql,git" />
   </a>
 </h3>
 
@@ -19,18 +19,16 @@
   />
 </h3>
 
-### Systems Analysis & Development Student | Java · C# · JavaScript · APIs · Software Testing | Open to Tech Internships
-I'm a Systems Analysis and Development student building a career in technology, with a hands-on approach to software development, quality, and IT operations.
+### Systems Analysis & Development Student | Java Back-End Developer | Open to Back-End Internships
+I'm a Systems Analysis and Development student focusing on Java Back-End Development and actively seeking software engineering internship opportunities.
 
-My foundation is in back-end development: I've built RESTful APIs with Java (Spring Boot) and C# (ASP.NET Core), using layered architecture, JWT authentication, PostgreSQL and SQL Server, Docker, and automated unit tests with JUnit, Mockito, xUnit, and Moq. I also work with JavaScript and Python.
+My main stack centers on Java and Spring Boot, building scalable RESTful APIs using layered architecture, JWT authentication, PostgreSQL, and Docker. I bring a strong quality mindset to backend development, writing automated unit tests with JUnit and Mockito.
 
-I bring a quality mindset to everything I build. I've studied QA fundamentals, including test design techniques, SDLC/STLC, bug lifecycle, and severity and priority, and I practice manual testing, test documentation, and bug reporting through personal projects while growing my skills in test automation.
+With prior experience in IT operations and project tracking, I combine backend code execution with practical problem-solving and clear team communication.
 
-Before starting my degree, I worked as an IT Apprentice, providing hardware and software support, setting up equipment, and managing IT asset inventory, which gave me a practical view of how technology supports people and business processes.
+🎯 Looking for: Java / Back-End Software Engineering Internships
 
-I'm looking for an internship where I can learn from experienced teams, contribute where I'm most needed, and grow across software development, QA, and IT.
-
-Interested in: Software Development · Back-End · Quality Assurance · Test Automation · API Testing · IT Support
+🛠️ Tech Stack: Java · Spring Boot · Spring Data JPA · REST APIs · PostgreSQL · JUnit · Mockito · Docker · Git
 
 <br clear="right">
 
